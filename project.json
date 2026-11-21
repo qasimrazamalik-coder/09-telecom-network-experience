@@ -1,0 +1,11 @@
+{
+  "title": "Telecom Network Experience",
+  "domain": "telecom",
+  "primary_dimension": "region",
+  "kpis": [
+    "Availability",
+    "Dropped Call Rate",
+    "Download Speed",
+    "Complaint Rate"
+  ]
+}
